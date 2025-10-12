@@ -15,9 +15,9 @@ TabCodeRL incorporates a CodeBLEU-based reward function that provides step-level
 
 ## Dataset & Parameter Preview
 
-The ReasonTabQA_samples.zip file contains sample tables from our benchmark, showcasing the four industrially relevant table types. These examples illustrate the challenging nature of table structures and reasoning requirements encountered in practical applications.
+The **ReasonTabQA_samples.zip** file contains sample tables from our benchmark, showcasing the four industrially relevant table types. These examples illustrate the challenging nature of table structures and reasoning requirements encountered in practical applications.
 
-The tabcoderl_trainer.yaml file provides key parameter configurations for the reinforcement learning training process within our TabCodeRL framework, serving as a practical reference for model adaptation and evaluation.
+The **tabcoderl_trainer.yaml** file provides key parameter configurations for the reinforcement learning training process within our TabCodeRL framework, serving as a practical reference for model adaptation and evaluation.
 
 ## Data & Code Availability
 
