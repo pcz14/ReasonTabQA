@@ -1,0 +1,79 @@
+Item,BetaValues-(WeibullShapeFactor)-Low,BetaValues-(WeibullShapeFactor)-Typical,BetaValues-(WeibullShapeFactor)-High,EtaValues-(WeibullCharacteristicLife--hours)-Low,EtaValues-(WeibullCharacteristicLife--hours)-Typical,EtaValues-(WeibullCharacteristicLife--hours)-High
+Components,,,,,,
+Ball bearing,0.7,1.3,3.5,14000.0,40000.0,250000.0
+Roller bearings,0.7,1.3,3.5,9000.0,50000.0,125000.0
+Sleeve bearing,0.7,1.0,3.0,10000.0,50000.0,143000.0
+"Belts, drive",0.5,1.2,2.8,9000.0,30000.0,91000.0
+"Bellows, hydraulic",0.5,1.3,3.0,14000.0,50000.0,100000.0
+Bolts,0.5,3.0,10.0,125000.0,300000.0,100000000.0
+"Clutches, friction",0.5,1.4,3.0,67000.0,100000.0,500000.0
+"Clutches, magnetic",0.8,1.0,1.6,100000.0,150000.0,333000.0
+Couplings,0.8,2.0,6.0,25000.0,75000.0,333000.0
+"Couplings, gear",0.8,2.5,4.0,25000.0,75000.0,1250000.0
+"Cylinders, hydraulic",1.0,2.0,3.8,9000000.0,900000.0,200000000.0
+"Diaphragm, metal",0.5,3.0,6.0,50000.0,65000.0,500000.0
+"Diaphragm, rubber",0.5,1.1,1.4,50000.0,60000.0,300000.0
+"Gaskets, hydraulics",0.5,1.1,1.4,700000.0,75000.0,3300000.0
+"Filter, oil",0.5,1.1,1.4,20000.0,25000.0,125000.0
+Gears,0.5,2.0,6.0,33000.0,75000.0,500000.0
+"Impellers, pumps",0.5,2.5,6.0,125000.0,150000.0,1400000.0
+"Joints, mechanical",0.5,1.2,6.0,1400000.0,150000.0,10000000.0
+"Knife edges, fulcrum",0.5,1.0,6.0,1700000.0,2000000.0,16700000.0
+"Liner, recip. comp. cyl.",0.5,1.8,3.0,20000.0,50000.0,300000.0
+Nuts,0.5,1.1,1.4,14000.0,50000.0,500000.0
+"""O""-rings, elastomeric",0.5,1.1,1.4,5000.0,20000.0,33000.0
+"Packings, recip. comp. rod",0.5,1.1,1.4,5000.0,20000.0,33000.0
+Pins,0.5,1.4,5.0,17000.0,50000.0,170000.0
+Pivots,0.5,1.4,5.0,300000.0,400000.0,1400000.0
+"Pistons, engines",0.5,1.4,3.0,20000.0,75000.0,170000.0
+"Pumps, lubricators",0.5,1.1,1.4,13000.0,50000.0,125000.0
+"Seals, mechanical",0.8,1.4,4.0,3000.0,25000.0,50000.0
+"Shafts, cent. pumps",0.8,1.2,3.0,50000.0,50000.0,300000.0
+Springs,0.5,1.1,3.0,14000.0,25000.0,5000000.0
+Vibration mounts,0.5,1.1,2.2,17000.0,50000.0,200000.0
+"Wear rings, cent. pumps",0.5,1.1,4.0,10000.0,50000.0,90000.0
+"Valves, recip comp.",0.5,1.4,4.0,3000.0,40000.0,80000.0
+,,,,,,
+Machinery Equipment,,,,,,
+Circuit breakers,0.5,1.5,3.0,67000.0,100000.0,1400000.0
+"Compressors, centrifugal",0.5,1.9,3.0,20000.0,60000.0,120000.0
+Compressor blades,0.5,2.5,3.0,400000.0,800000.0,1500000.0
+Compressor vanes,0.5,3.0,4.0,500000.0,1000000.0,2000000.0
+Diaphgram couplings,0.5,2.0,4.0,125000.0,300000.0,600000.0
+Gas turb. comp. blades/vanes,1.2,2.5,6.6,10000.0,250000.0,300000.0
+Gas turb. blades/vanes,0.9,1.6,2.7,10000.0,125000.0,160000.0
+"Motors, AC",0.5,1.2,3.0,1000.0,100000.0,200000.0
+"Motors, DC",0.5,1.2,3.0,100.0,50000.0,100000.0
+"Pumps, centrifugal",0.5,1.2,3.0,1000.0,35000.0,125000.0
+Steam turbines,0.5,1.7,3.0,11000.0,65000.0,170000.0
+Steam turbine blades,0.5,2.5,3.0,400000.0,800000.0,1500000.0
+Steam turbine vanes,0.5,3.0,3.0,500000.0,900000.0,1800000.0
+Transformers,0.5,1.1,3.0,14000.0,200000.0,14200000.0
+,,,,,,
+Instrumentation,,,,,,
+"Controllers, pneumatic",0.5,1.1,2.0,1000.0,25000.0,1000000.0
+"Controllers, solid state",0.5,0.7,1.1,20000.0,100000.0,200000.0
+Control valves,0.5,1.0,2.0,14000.0,100000.0,333000.0
+Motorized valves,0.5,1.1,3.0,17000.0,25000.0,1000000.0
+Solenoid valves,0.5,1.1,3.0,50000.0,75000.0,1000000.0
+Transducers,0.5,1.0,3.0,11000.0,20000.0,90000.0
+Transmitters,0.5,1.0,2.0,100000.0,150000.0,1100000.0
+Temperature indicators,0.5,1.0,2.0,140000.0,150000.0,3300000.0
+Pressure indicators,0.5,1.2,3.0,110000.0,125000.0,3300000.0
+Flow instrumentation,0.5,1.0,3.0,100000.0,125000.0,10000000.0
+Level instrumentation,0.5,1.0,3.0,14000.0,25000.0,500000.0
+Electro-mechanical parts,0.5,1.0,3.0,13000.0,25000.0,1000000.0
+,,,,,,
+Static Equipment,,,,,,
+"Boilers, condensers",0.5,1.2,3.0,11000.0,50000.0,3300000.0
+Pressure vessels,0.5,1.5,6.0,1250000.0,2000000.0,33000000.0
+"Filters, strainers",0.5,1.0,3.0,5000000.0,5000000.0,200000000.0
+Check valves,0.5,1.0,3.0,100000.0,100000.0,1250000.0
+Relief valves,0.5,1.0,3.0,100000.0,100000.0,1000000.0
+,,,,,,
+Service Liquids,,,,,,
+Coolants,0.5,1.1,2.0,11000.0,15000.0,33000.0
+"Lubricants, screw compr.",0.5,1.1,3.0,11000.0,15000.0,40000.0
+"Lube oils, mineral",0.5,1.1,3.0,3000.0,10000.0,25000.0
+"Lube oils, synthetic",0.5,1.1,3.0,33000.0,50000.0,250000.0
+Greases,0.5,1.1,3.0,7000.0,10000.0,33000.0
